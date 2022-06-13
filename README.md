@@ -1,3 +1,6 @@
 # nikel
 
-Aplicação Web construída em Curso Codaí/Growdev
+Aplicação Web criada em Curso Codaí/Growdev (https://codai.growdev.com.br/)
+
+Web Application created in Curse Codaí/Growdev (https://codai.growdev.com.br/)
+
