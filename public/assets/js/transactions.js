@@ -28,7 +28,7 @@ document.getElementById('transaction-form').addEventListener('submit', function 
 
     getTransactions();
 
-    alert('Lançamento adicionado com sucesso!')
+    alert('Lançamento adicionado com sucesso!');
 });
 
 checkLogged();

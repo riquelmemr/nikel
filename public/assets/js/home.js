@@ -33,7 +33,7 @@ document.getElementById('transaction-form').addEventListener('submit', function 
     getCashOut();
     getTotal();
 
-    alert('Lançamento adicionado com sucesso!')
+    alert('Lançamento adicionado com sucesso!');
 });
 
 checkLogged();
